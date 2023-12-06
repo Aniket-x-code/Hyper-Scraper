@@ -8,7 +8,7 @@ Crawls websites 🕸️ and extracts links: Follow hyperlinks and discover new p
 
 📄 Parses raw HTML: Extract content and structure from web pages.
 
-Lightweight and minimal dependencies: Keep things simple and maintainable.
+Lightweight and minimal dependencies 👾 : Keep things simple and maintainable.
 
 Open-source and customizable: Build upon and extend the functionality.
 
