@@ -5,8 +5,10 @@ Leveraging minimal dependencies, it parses raw HTML and traverses hyperlinks, of
 Features:
 
 Crawls websites 🕸️ and extracts links: Follow hyperlinks and discover new pages.
-Parses raw HTML: Extract content and structure from web pages.
+
+📄 Parses raw HTML: Extract content and structure from web pages.
 
 Lightweight and minimal dependencies: Keep things simple and maintainable.
+
 Open-source and customizable: Build upon and extend the functionality.
 
